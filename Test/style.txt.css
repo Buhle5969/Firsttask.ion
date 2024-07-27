@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header.jumbotron {
+    background: #f8f9fa;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.product-line .card {
+    margin-bottom: 2rem;
+    transition: transform 0.3s;
+}
+
+.product-line .card:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    background: #f8f9fa;
+}
